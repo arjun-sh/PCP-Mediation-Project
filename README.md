@@ -1,4 +1,4 @@
-# healthcare_proj
+# Does primary care availability mediate the relationship between rurality and low life expectancy in the United States?
 
 # Objectives. 
 To understand and quantify the degree to which PCP availability mediates the relationship between rurality and life expectancy. 
